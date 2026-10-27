@@ -1,0 +1,15 @@
+tensorflow
+keras
+scikit-learn
+scikit-learn-lvq
+numpy
+pandas
+seaborn
+matplotlib
+librosa
+opencv-python
+Pillow
+soundfile
+resampy
+sounddevice
+joblib
